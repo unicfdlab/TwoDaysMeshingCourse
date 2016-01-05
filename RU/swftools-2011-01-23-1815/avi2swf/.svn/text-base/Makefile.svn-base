@@ -1,1 +1,0 @@
-all install uninstall clean:
