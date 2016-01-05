@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tools/unicfdc04/svn/!svn/ver/15/trunk/data/Files/Distr
+END
+makeAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tools/unicfdc04/svn/!svn/ver/7/trunk/data/Files/Distr/makeAll.sh
+END
+ccx_2.6.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/ccx_2.6.1
+END
+cgx_2.6.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/cgx_2.6.1
+END
+calculixEnv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/tools/unicfdc04/svn/!svn/ver/7/trunk/data/Files/Distr/calculixEnv.sh
+END
+ccx_2.6.1.src.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/ccx_2.6.1.src.tar.bz2
+END
+ccx_2.6.1.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/ccx_2.6.1.pdf
+END
+cgx_2.6.1.all.tar.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/cgx_2.6.1.all.tar.bz2
+END
+cgx_2.6.1.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/cgx_2.6.1.pdf
+END

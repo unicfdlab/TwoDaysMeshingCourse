@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr
+END
+otsu.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/otsu.h
+END
+gocr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/gocr.h
+END
+pnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/pnm.h
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/output.c
+END
+pgm2asc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/pgm2asc.h
+END
+ocr0.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/ocr0.c
+END
+ocr1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/ocr1.c
+END
+database.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/database.c
+END
+progress.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/progress.c
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/output.h
+END
+ocr0.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/ocr0.h
+END
+detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/detect.c
+END
+ocr1.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/ocr1.h
+END
+progress.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/progress.h
+END
+lines.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/lines.c
+END
+job.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/job.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/list.c
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/list.h
+END
+ocr0n.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/ocr0n.c
+END
+pixel.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/pixel.c
+END
+unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/unicode.c
+END
+box.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/box.c
+END
+otsu.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/otsu.c
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/unicode.h
+END
+pgm2asc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/pgm2asc.c
+END
+remove.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gocr/remove.c
+END

@@ -1,0 +1,59 @@
+**
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+** Mesh description (nodes and topology)
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**
+* Include, Input=all.msh
+**
+**
+** fixed nodes set
+**
+* Include, Input=fixed.msh
+**
+**
+** traction nodes set
+**
+* Include, Input=traction.msh
+**
+**
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+** Boundary conditions on nodes
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**
+* Boundary
+** Bottom nodes (fixing nodes in x, y, z)
+Nfixed,1,3
+**
+**
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+** Materials description
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**
+* Material, Name=Material-1
+* Density
+7800.
+* Elastic
+2.0E+11, 0.3
+* Solid Section, elset=Eall, material=Material-1
+**
+**
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+** Steps description
+** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**
+* Step
+* FREQUENCY
+20
+* CLOAD,OP=NEW
+Ntraction,2,2.5
+* NODE PRINT, NSET=Nall
+U
+* EL PRINT, ELSET=EALL
+S
+* NODE FILE, OUTPUT=3D
+U
+* EL FILE
+S
+* END STEP
+** END_OF_FILE
+

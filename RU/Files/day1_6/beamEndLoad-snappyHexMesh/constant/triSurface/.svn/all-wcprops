@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tools/unicfdc04/svn/!svn/ver/28/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface
+END
+beam.stl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/tools/unicfdc04/svn/!svn/ver/28/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface/beam.stl
+END
+fixedEnd.stl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface/fixedEnd.stl
+END
+tractionEnd.stl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface/tractionEnd.stl
+END
+topSurface.stl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface/topSurface.stl
+END
+frontAndBack.stl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface/frontAndBack.stl
+END
+bottomSurfase.stl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_6/beamEndLoad-snappyHexMesh/constant/triSurface/bottomSurfase.stl
+END

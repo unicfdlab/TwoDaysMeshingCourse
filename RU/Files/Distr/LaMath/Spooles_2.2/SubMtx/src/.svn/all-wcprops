@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src
+END
+solveH.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/solveH.c
+END
+solveupd.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/solveupd.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/init.c
+END
+makeGlobalLib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/makeGlobalLib
+END
+instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/instance.c
+END
+initRandom.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/initRandom.c
+END
+basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/basics.c
+END
+IO.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/IO.c
+END
+solveupdH.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/solveupdH.c
+END
+solveT.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/solveT.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/util.c
+END
+solveupdT.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/solveupdT.c
+END
+scalevec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/scalevec.c
+END
+sort.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/sort.c
+END
+solve.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/solve.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx/src/makefile
+END

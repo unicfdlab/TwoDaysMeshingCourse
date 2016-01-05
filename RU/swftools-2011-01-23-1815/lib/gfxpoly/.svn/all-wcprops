@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly
+END
+xrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/xrow.c
+END
+wind.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/wind.c
+END
+xrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/xrow.h
+END
+wind.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/wind.h
+END
+stroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/stroke.c
+END
+active.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/active.c
+END
+stroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/stroke.h
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/convert.c
+END
+active.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/active.h
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/heap.h
+END
+renderpoly.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/renderpoly.c
+END
+poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/poly.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/convert.h
+END
+renderpoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/renderpoly.h
+END
+poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly/poly.h
+END

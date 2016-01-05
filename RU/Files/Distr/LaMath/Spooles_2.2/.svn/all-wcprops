@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2
+END
+Coords.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Coords.h
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Network.h
+END
+IVL.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/IVL.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc.h
+END
+ZV.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/ZV.h
+END
+Tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree.h
+END
+IIheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/IIheap.h
+END
+MSMD.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/MSMD.h
+END
+Graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Graph.h
+END
+ETree.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/ETree.h
+END
+BKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/BKL.h
+END
+Pencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil.h
+END
+SubMtxManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtxManager.h
+END
+IV.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/IV.h
+END
+makeLib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/makeLib
+END
+SubMtxList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtxList.h
+END
+InpMtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/InpMtx.h
+END
+MT.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/MT.h
+END
+SubMtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SubMtx.h
+END
+Ideq.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Ideq.h
+END
+dotar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/dotar
+END
+PatchAndGoInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/PatchAndGoInfo.h
+END
+DSTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/DSTree.h
+END
+SolveMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SolveMap.h
+END
+DenseMtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/DenseMtx.h
+END
+updLib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/updLib
+END
+I2Ohash.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/I2Ohash.h
+END
+Make.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Make.inc
+END
+spooles.2.2.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/spooles.2.2.html
+END
+A2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/A2.h
+END
+Perm.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm.h
+END
+cfiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/cfiles.h
+END
+EGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/EGraph.h
+END
+BPG.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/BPG.h
+END
+DV.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/DV.h
+END
+timings.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/timings.h
+END
+Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Utilities.h
+END
+ChvManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/ChvManager.h
+END
+ChvList.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/ChvList.h
+END
+GPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart.h
+END
+Chv.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv.h
+END
+FrontMtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx.h
+END
+ILUMtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/ILUMtx.h
+END
+SPOOLES.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SPOOLES.h
+END
+SymbFac.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/SymbFac.h
+END
+MPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/MPI.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/makefile
+END
+Lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock.h
+END
+Drand.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Drand.h
+END

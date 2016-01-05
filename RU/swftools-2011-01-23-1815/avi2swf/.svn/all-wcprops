@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf
+END
+videoreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/videoreader.h
+END
+videoreader_vfw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/videoreader_vfw.cc
+END
+avi2swf.1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/avi2swf.1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/Makefile.in
+END
+avi2swf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/avi2swf.cc
+END
+videoreader_avifile.hh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/videoreader_avifile.hh
+END
+v2swf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/v2swf.c
+END
+videoreader_vfw.hh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/videoreader_vfw.hh
+END
+videoreader_avifile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/videoreader_avifile.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/Makefile
+END
+v2swf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/avi2swf/v2swf.h
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf
+END
+fonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/fonts.h
+END
+BitmapOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/BitmapOutputDev.cc
+END
+bbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/bbox.h
+END
+CharOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/CharOutputDev.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/Makefile.in
+END
+BitmapOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/BitmapOutputDev.h
+END
+pdf2jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/pdf2jpeg.c
+END
+CharOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/CharOutputDev.h
+END
+cmyk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/cmyk.cc
+END
+cmyk.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/cmyk.h
+END
+CommonOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/CommonOutputDev.cc
+END
+pdf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/pdf.cc
+END
+CommonOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/CommonOutputDev.h
+END
+InfoOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/InfoOutputDev.cc
+END
+pdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/pdf.h
+END
+InfoOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/InfoOutputDev.h
+END
+FullBitmapOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/FullBitmapOutputDev.cc
+END
+XMLOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/XMLOutputDev.cc
+END
+VectorGraphicOutputDev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/VectorGraphicOutputDev.cc
+END
+FullBitmapOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/FullBitmapOutputDev.h
+END
+XMLOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/XMLOutputDev.h
+END
+VectorGraphicOutputDev.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/VectorGraphicOutputDev.h
+END
+popplercompat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/popplercompat.cc
+END
+fonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/fonts.c
+END
+bbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/bbox.c
+END
+popplercompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/popplercompat.h
+END
+aconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/aconf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/pdf/Makefile
+END

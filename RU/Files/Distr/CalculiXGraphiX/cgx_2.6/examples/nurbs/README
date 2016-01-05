@@ -1,0 +1,15 @@
+Purpose:
+Demonstrates how to generate a stl file with edges for netgen:
+
+use -a for automatic mode:
+cgx -a halter.fbd
+
+# display the model (optional), type:
+rep all
+plus l all
+
+# generate and export a mesh in stl-format, type:
+elty all tr3u
+elty all be2
+mesh all
+send all stl

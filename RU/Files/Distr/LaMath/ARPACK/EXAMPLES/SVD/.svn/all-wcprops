@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/EXAMPLES/SVD
+END
+ssvd.f
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/EXAMPLES/SVD/ssvd.f
+END
+dsvd.f
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/EXAMPLES/SVD/dsvd.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/EXAMPLES/SVD/debug.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/EXAMPLES/SVD/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/EXAMPLES/SVD/makefile
+END

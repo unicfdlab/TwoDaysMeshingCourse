@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/setup.c
+END
+permute.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/permute.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/init.c
+END
+basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/basics.c
+END
+makeGlobalLib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/makeGlobalLib
+END
+mmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/mmm.c
+END
+IO.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/IO.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/makefile
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Pencil/src/util.c
+END

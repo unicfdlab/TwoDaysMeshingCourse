@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock/src
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock/src/init.c
+END
+basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock/src/basics.c
+END
+makeGlobalLib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock/src/makeGlobalLib
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock/src/makefile
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Lock/src/util.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm/drivers
+END
+compressPerm.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm/drivers/compressPerm.c
+END
+do_compressPerm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm/drivers/do_compressPerm
+END
+testIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm/drivers/testIO.c
+END
+do_testIO
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm/drivers/do_testIO
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Perm/drivers/makefile
+END

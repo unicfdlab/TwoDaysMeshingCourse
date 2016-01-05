@@ -1,0 +1,77 @@
+10
+
+dir
+34
+https://unihub.ru/tools/unicfdc04/svn/trunk/data/Files/day1_4/beam-modelling
+https://unihub.ru/tools/unicfdc04/svn
+
+
+
+2013-11-10T16:05:32.210416Z
+19
+matvey.kraposhin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01c50cae-3373-4b7b-9fe8-81634d72163a
+
+beam-cgx-q
+dir
+
+beam-cgx
+dir
+
+beam-ccx-static
+dir
+
+beam-load.ods
+file
+
+
+
+
+2013-11-12T17:55:07.000000Z
+151425e2d30cf17fcad5fc1adfffe1ab
+2013-11-10T16:05:32.210416Z
+19
+matvey.kraposhin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12222
+
+beam-ccx-modal
+dir
+
+beam-openfoam-static
+dir
+

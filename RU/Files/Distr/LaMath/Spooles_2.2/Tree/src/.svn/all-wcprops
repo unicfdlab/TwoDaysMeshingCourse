@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/init.c
+END
+makeGlobalLib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/makeGlobalLib
+END
+instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/instance.c
+END
+basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/basics.c
+END
+metrics.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/metrics.c
+END
+IO.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/IO.c
+END
+subtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/subtree.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/util.c
+END
+permute.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/permute.c
+END
+maximizeGain.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/maximizeGain.c
+END
+perms.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/perms.c
+END
+getCoords.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/getCoords.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/compress.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/makefile
+END
+justify.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/justify.c
+END
+draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Tree/src/draw.c
+END

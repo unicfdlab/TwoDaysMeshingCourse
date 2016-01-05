@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Drand/drivers
+END
+testDrand.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Drand/drivers/testDrand.c
+END
+do_testDrand
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Drand/drivers/do_testDrand
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Drand/drivers/makefile
+END

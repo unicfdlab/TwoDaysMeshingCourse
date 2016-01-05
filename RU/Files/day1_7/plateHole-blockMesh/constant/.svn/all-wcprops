@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_7/plateHole-blockMesh/constant
+END
+mechanicalProperties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_7/plateHole-blockMesh/constant/mechanicalProperties
+END
+thermalProperties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tools/unicfdc04/svn/!svn/ver/13/trunk/data/Files/day1_7/plateHole-blockMesh/constant/thermalProperties
+END

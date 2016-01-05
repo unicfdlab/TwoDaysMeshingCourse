@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src
+END
+fpgrids.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/fpgrids.c
+END
+mkNDlinsysQR.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/mkNDlinsysQR.c
+END
+ND.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/ND.c
+END
+ND2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/ND2.c
+END
+orderViaBestOfNDandMS.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/orderViaBestOfNDandMS.c
+END
+makeGlobalLib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/makeGlobalLib
+END
+drawGraphEPS.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/drawGraphEPS.c
+END
+orderViaMMD.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/orderViaMMD.c
+END
+mkNDlinsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/mkNDlinsys.c
+END
+orderViaMS.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/orderViaMS.c
+END
+localND.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/localND.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/makefile
+END
+orderViaND.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/misc/src/orderViaND.c
+END

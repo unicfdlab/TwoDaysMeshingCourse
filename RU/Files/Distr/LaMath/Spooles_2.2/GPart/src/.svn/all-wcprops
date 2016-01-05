@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/init.c
+END
+smoothBisector.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/smoothBisector.c
+END
+makeGlobalLib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/makeGlobalLib
+END
+basics.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/basics.c
+END
+smoothBy2layers.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/smoothBy2layers.c
+END
+makeYCmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/makeYCmap.c
+END
+DDviaFishnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/DDviaFishnet.c
+END
+smoothYSep.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/smoothYSep.c
+END
+DDsepInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/DDsepInfo.c
+END
+domSegMap.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/domSegMap.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/util.c
+END
+TwoSetViaBKL.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/TwoSetViaBKL.c
+END
+RBviaDDsep.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/RBviaDDsep.c
+END
+DDviaProjection.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/DDviaProjection.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/split.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/makefile
+END
+identifyWideSep.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/src/identifyWideSep.c
+END

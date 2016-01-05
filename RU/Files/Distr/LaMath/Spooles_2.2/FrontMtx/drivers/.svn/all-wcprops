@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers
+END
+testFactor.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/testFactor.c
+END
+do_factor
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/do_factor
+END
+testGrid.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/testGrid.c
+END
+do_grid
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/do_grid
+END
+testQRgrid.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/testQRgrid.c
+END
+do_QRgrid
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/do_QRgrid
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/FrontMtx/drivers/makefile
+END

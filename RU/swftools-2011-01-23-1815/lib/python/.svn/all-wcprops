@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python
+END
+tags.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/tags.c
+END
+SWF.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/SWF.c
+END
+primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/primitives.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/Makefile.in
+END
+tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/tags.h
+END
+taglist.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/taglist.c
+END
+pyutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/pyutils.c
+END
+tagmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/tagmap.c
+END
+tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/tag.c
+END
+taglist.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/taglist.h
+END
+action.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/action.c
+END
+pyutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/pyutils.h
+END
+tagmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/tagmap.h
+END
+tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/tag.h
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/image.c
+END
+action.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/action.h
+END
+gfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/gfx.c
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/image.h
+END
+primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/primitives.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/python/Makefile
+END

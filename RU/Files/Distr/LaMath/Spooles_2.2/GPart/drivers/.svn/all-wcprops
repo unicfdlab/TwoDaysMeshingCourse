@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers
+END
+mkDSTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/mkDSTree.c
+END
+testTwoSetViaBKL.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/testTwoSetViaBKL.c
+END
+do_TwoSetViaBKL
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/do_TwoSetViaBKL
+END
+do_mkDSTree
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/do_mkDSTree
+END
+testRBviaDDsep.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/testRBviaDDsep.c
+END
+do_RBviaDDsep
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/do_RBviaDDsep
+END
+testSmoothBisector.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/testSmoothBisector.c
+END
+do_SmoothBisector
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/do_SmoothBisector
+END
+testRBviaDDsep2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/testRBviaDDsep2.c
+END
+do_RBviaDDsep2
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/do_RBviaDDsep2
+END
+testDDviaFishnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/testDDviaFishnet.c
+END
+do_DDviaFishnet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/do_DDviaFishnet
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/GPart/drivers/makefile
+END

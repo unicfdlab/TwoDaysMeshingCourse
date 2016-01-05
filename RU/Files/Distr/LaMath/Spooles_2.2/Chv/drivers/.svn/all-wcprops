@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers
+END
+test_findPivot.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_findPivot.c
+END
+do_findPivot
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_findPivot
+END
+test_assmbChv.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_assmbChv.c
+END
+do_assmbChv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_assmbChv
+END
+test_swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_swap.c
+END
+test_maxabs.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_maxabs.c
+END
+test_copyBigEntriesToVector.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_copyBigEntriesToVector.c
+END
+do_swap
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_swap
+END
+test_addChevron.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_addChevron.c
+END
+do_maxabs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_maxabs
+END
+do_copyBigEntriesToVector
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_copyBigEntriesToVector
+END
+test_factor.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_factor.c
+END
+do_addChevron
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_addChevron
+END
+do_factor
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_factor
+END
+test_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_update.c
+END
+do_update
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_update
+END
+test_copyEntriesToVector.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_copyEntriesToVector.c
+END
+test_r1upd.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_r1upd.c
+END
+do_copyEntriesToVector
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_copyEntriesToVector
+END
+test_r2upd.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/test_r2upd.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/makefile
+END
+do_r1upd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_r1upd
+END
+do_r2upd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/Spooles_2.2/Chv/drivers/do_r2upd
+END

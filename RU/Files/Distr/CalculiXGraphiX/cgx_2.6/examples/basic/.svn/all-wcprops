@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/8/trunk/data/Files/Distr/CalculiXGraphiX/cgx_2.6/examples/basic
+END
+sphere.fbd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/tools/unicfdc04/svn/!svn/ver/8/trunk/data/Files/Distr/CalculiXGraphiX/cgx_2.6/examples/basic/sphere.fbd
+END
+sphere_vol.fbd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tools/unicfdc04/svn/!svn/ver/8/trunk/data/Files/Distr/CalculiXGraphiX/cgx_2.6/examples/basic/sphere_vol.fbd
+END
+cylinder.fbd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tools/unicfdc04/svn/!svn/ver/8/trunk/data/Files/Distr/CalculiXGraphiX/cgx_2.6/examples/basic/cylinder.fbd
+END
+disc.fbd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tools/unicfdc04/svn/!svn/ver/8/trunk/data/Files/Distr/CalculiXGraphiX/cgx_2.6/examples/basic/disc.fbd
+END
+sphere_seg.fbd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tools/unicfdc04/svn/!svn/ver/8/trunk/data/Files/Distr/CalculiXGraphiX/cgx_2.6/examples/basic/sphere_seg.fbd
+END

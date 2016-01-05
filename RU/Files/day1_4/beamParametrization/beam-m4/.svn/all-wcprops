@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/4/trunk/data/Files/day1_4/beamParametrization/beam-m4
+END
+beam-m4.foam
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/4/trunk/data/Files/day1_4/beamParametrization/beam-m4/beam-m4.foam
+END
+makeMesh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/4/trunk/data/Files/day1_4/beamParametrization/beam-m4/makeMesh.sh
+END
+blockMeshDict.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tools/unicfdc04/svn/!svn/ver/4/trunk/data/Files/day1_4/beamParametrization/beam-m4/blockMeshDict.m4
+END

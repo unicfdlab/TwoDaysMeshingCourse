@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL
+END
+cvout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/cvout.f
+END
+dvout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/dvout.f
+END
+iset.f
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/iset.f
+END
+ivout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/ivout.f
+END
+smout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/smout.f
+END
+second.f
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/second.f
+END
+zmout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/zmout.f
+END
+svout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/svout.f
+END
+iswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/iswap.f
+END
+icopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/icopy.f
+END
+icnteq.f
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/icnteq.f
+END
+zvout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/zvout.f
+END
+cmout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/cmout.f
+END
+dmout.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/dmout.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/UTIL/Makefile
+END

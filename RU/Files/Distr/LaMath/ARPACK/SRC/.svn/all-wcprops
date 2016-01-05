@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC
+END
+sseigt.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sseigt.f
+END
+dneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dneigh.f
+END
+dsaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsaup2.f
+END
+dsesrt.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsesrt.f
+END
+cnaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cnaupd.f
+END
+znapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/znapps.f
+END
+dsortr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsortr.f
+END
+sstqrb.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sstqrb.f
+END
+cneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cneupd.f
+END
+zgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/zgetv0.f
+END
+znaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/znaup2.f
+END
+cnaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cnaitr.f
+END
+sstats.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sstats.f
+END
+cngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cngets.f
+END
+zsortc.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/zsortc.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/debug.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/Makefile
+END
+snaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/snaupd.f
+END
+dstatn.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dstatn.f
+END
+cneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cneigh.f
+END
+sneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sneupd.f
+END
+snaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/snaitr.f
+END
+sngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sngets.f
+END
+dlaqrb.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dlaqrb.f
+END
+snconv.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/snconv.f
+END
+ssapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssapps.f
+END
+dnaupe.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dnaupe.f
+END
+ssaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssaup2.f
+END
+sneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sneigh.f
+END
+dsaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsaupd.f
+END
+ssesrt.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssesrt.f
+END
+dseupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dseupd.f
+END
+dnapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dnapps.f
+END
+dsaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsaitr.f
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/version.h
+END
+dgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dgetv0.f
+END
+dnaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dnaup2.f
+END
+dsgets.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsgets.f
+END
+ssortr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssortr.f
+END
+cstatn.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cstatn.f
+END
+dsconv.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsconv.f
+END
+dsortc.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsortc.f
+END
+znaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/znaupd.f
+END
+zneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/zneupd.f
+END
+znaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/znaitr.f
+END
+zngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/zngets.f
+END
+sstatn.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sstatn.f
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/stat.h
+END
+dseigt.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dseigt.f
+END
+slaqrb.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/slaqrb.f
+END
+cnapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cnapps.f
+END
+zneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/zneigh.f
+END
+cnaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cnaup2.f
+END
+cgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/cgetv0.f
+END
+snaupe.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/snaupe.f
+END
+csortc.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/csortc.f
+END
+ssaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssaupd.f
+END
+dstqrb.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dstqrb.f
+END
+dstats.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dstats.f
+END
+sseupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sseupd.f
+END
+snapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/snapps.f
+END
+ssaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssaitr.f
+END
+ssgets.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssgets.f
+END
+snaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/snaup2.f
+END
+sgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/sgetv0.f
+END
+ssconv.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssconv.f
+END
+dnaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dnaupd.f
+END
+ssortc.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/ssortc.f
+END
+dneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dneupd.f
+END
+dnaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dnaitr.f
+END
+zstatn.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/zstatn.f
+END
+dngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dngets.f
+END
+dnconv.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dnconv.f
+END
+dsapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/3/trunk/data/Files/Distr/LaMath/ARPACK/SRC/dsapps.f
+END

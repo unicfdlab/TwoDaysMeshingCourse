@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/19/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q
+END
+yfaces.msh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/12/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/yfaces.msh
+END
+zfaces.msh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tools/unicfdc04/svn/!svn/ver/12/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/zfaces.msh
+END
+makeMesh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tools/unicfdc04/svn/!svn/ver/12/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/makeMesh.sh
+END
+fixed.msh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tools/unicfdc04/svn/!svn/ver/12/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/fixed.msh
+END
+beam-quad.fbd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tools/unicfdc04/svn/!svn/ver/19/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/beam-quad.fbd
+END
+traction.msh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/19/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/traction.msh
+END
+beam-quad.m4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tools/unicfdc04/svn/!svn/ver/17/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/beam-quad.m4
+END
+all.msh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tools/unicfdc04/svn/!svn/ver/12/trunk/data/Files/day1_4/beam-modelling/beam-cgx-q/all.msh
+END

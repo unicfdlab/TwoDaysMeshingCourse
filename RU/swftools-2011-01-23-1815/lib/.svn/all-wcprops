@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib
+END
+gfxfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxfilter.h
+END
+q.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/q.c
+END
+xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/xml.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/Makefile.in
+END
+args.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/args.h
+END
+wav.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/wav.h
+END
+gfxtools.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxtools.c
+END
+q.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/q.h
+END
+xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/xml.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/types.h
+END
+gfxtools.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxtools.h
+END
+gfxsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxsource.h
+END
+gfxfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxfont.c
+END
+graphcut.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/graphcut.c
+END
+kdtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/kdtree.c
+END
+rfxswf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/rfxswf.c
+END
+gfxfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxfont.h
+END
+os.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/os.c
+END
+graphcut.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/graphcut.h
+END
+old_rfxswf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/old_rfxswf.h
+END
+kdtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/kdtree.h
+END
+drawer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/drawer.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/png.c
+END
+rfxswf.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/rfxswf.h
+END
+jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/jpeg.c
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/os.h
+END
+gfxpoly.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/png.h
+END
+drawer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/drawer.h
+END
+jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/jpeg.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/Makefile
+END
+gfxpoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxpoly.h
+END
+ttf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/ttf.c
+END
+mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/mp3.c
+END
+ttf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/ttf.h
+END
+mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/mp3.h
+END
+bitio.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/bitio.c
+END
+gfxdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxdevice.h
+END
+bitio.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/bitio.h
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/mem.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/log.c
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/mem.h
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/base64.c
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/log.h
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/utf8.c
+END
+gfximage.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfximage.c
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/base64.h
+END
+gfxfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfxfilter.c
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/utf8.h
+END
+gfximage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/gfximage.h
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tools/unicfdc04/svn/!svn/ver/33/trunk/data/swftools-2011-01-23-1815/lib/wav.c
+END
